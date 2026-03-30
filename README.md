@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Nithish7383/Nithish7383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Nithish 👋
+### GenAI Engineer | Building Production AI Systems
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Nithish7383)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🤖 Building **Production RAG Systems** and **LLM Agents**
+- 🔥 Specializing in **LangChain, Groq, FAISS, FastAPI**
+- 📍 Based in Chennai, India
+- 🌱 Currently mastering **AI Agents + Vector Databases**
+- 💡 Goal: Building AI systems that solve real problems
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🤖 Advanced RAG Assistant](https://github.com/Nithish7383/advanced-rag-assistant) | Production RAG with hybrid retrieval + reranking + observability | LangChain, FAISS, BM25, Streamlit |
+| [🔍 AI Research Agent](https://github.com/Nithish7383/ai-research-agent) | LLM agent with real-time web search and summarization | LangChain, Groq, DuckDuckGo |
+| [🗄️
