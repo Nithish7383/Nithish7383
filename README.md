@@ -3,7 +3,7 @@
 # Hey, I'm Nithish 👋
 ### GenAI Engineer | Building Production AI Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nithish055)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Nithish7383)
 
 </div>
@@ -35,6 +35,35 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🤖 Advanced RAG Assistant](https://github.com/Nithish7383/advanced-rag-assistant) | Production RAG with hybrid retrieval + reranking + observability | LangChain, FAISS, BM25, Streamlit |
-| [🔍 AI Research Agent](https://github.com/Nithish7383/ai-research-agent) | LLM agent with real-time web search and summarization | LangChain, Groq, DuckDuckGo |
-| [🗄️
+| [Advanced RAG Assistant](https://github.com/Nithish7383/advanced-rag-assistant) | Production RAG with hybrid retrieval + reranking + observability | LangChain, FAISS, BM25, Streamlit |
+| [AI Research Agent](https://github.com/Nithish7383/ai-research-agent) | LLM agent with real-time web search and summarization | LangChain, Groq, DuckDuckGo |
+| [Text to SQL Agent](https://github.com/Nithish7383/text-to-sql-agent) | Query databases using plain English | LangChain, Python, SQL |
+| [GymBro AI](https://github.com/Nithish7383/gymbro-ai) | AI fitness coach — workout and diet planning | Python, LLM |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Nithish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithish7383&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish7383&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Currently Building
+
+- 🔍 **ResearchIQ** — AI research agent for small businesses
+- 💪 **SculptX90** — Personalized fitness and diet platform
+- 📚 **AI Learning Journal** — Daily GenAI concepts and implementations
+
+---
+
+<div align="center">
+
+*"Build things. Ship things. Learn every day."* 🚀
+
+</div>
